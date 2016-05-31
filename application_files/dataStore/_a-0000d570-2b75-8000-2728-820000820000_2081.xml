@@ -19,7 +19,7 @@
             </entity>
         </entities>
     </dataStore>
-    <isPublished>false</isPublished>
+    <isPublished>true</isPublished>
     <roleMap>
         <role allowForAll="false" inherit="false" name="administrators">
             <users/>
